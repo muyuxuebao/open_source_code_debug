@@ -1,0 +1,20 @@
+*.udb
+*.a
+*.so
+*.tmp
+
+# Word temporary
+~$*.doc*
+~$*.docx*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsdx
